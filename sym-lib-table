@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "JS202011SCQN")(type "Legacy")(uri "${KIPRJMOD}/symbols_and_footprints/SW_JS202011SCQN/JS202011SCQN.lib")(options "")(descr ""))
+)

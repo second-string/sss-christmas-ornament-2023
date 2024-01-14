@@ -1,0 +1,8 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "LTST-C230K")(type "KiCad")(uri "${KIPRJMOD}/symbols_and_footprints/LTST-C230K")(options "")(descr ""))
+  (lib (name "SW_JS202011SCQN")(type "KiCad")(uri "${KIPRJMOD}/symbols_and_footprints/SW_JS202011SCQN")(options "")(descr ""))
+  (lib (name "BS412")(type "KiCad")(uri "${KIPRJMOD}/symbols_and_footprints/BS412")(options "")(descr ""))
+  (lib (name "BH-67D-5")(type "KiCad")(uri "${KIPRJMOD}/symbols_and_footprints/BH-67D-5")(options "")(descr ""))
+  (lib (name "QLSP15RGB")(type "KiCad")(uri "${KIPRJMOD}/symbols_and_footprints/QLSP15RGB/QLSP15RGB.pretty")(options "")(descr ""))
+)
